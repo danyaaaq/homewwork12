@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: rgb(100, 100, 100);
+    font-style: italic;
+}
+.list{ 
+    font-weight: 700 ;
+    display: flex;
+    justify-content: space-around;
+background-color: rgb(187, 198, 255);
+padding-top: 40px;
+padding-bottom: 40px;
+list-style: none;
+}
+.wrapper{
+    display: flex;
+    gap: 40px;
+  
+
+}
+body{background-color: rgb(255, 255, 255);}
+.box{
+    background-color: #d5c5ff;
+    padding: 10px;
+    border: 10px dotted;
+
+}
+img{
+    width: 150px;
+}
+.footer{
+    padding: 40px;
+    background-color: #b89cff;
+    margin-top: 40px;
+}
+.new{ 
+    border: 1px solid gray; 
+    padding: 30px; 
+    width: 310px; 
+    margin: 20px; 
+} 
+.new-img{ 
+    width: 100%; 
+    margin-bottom: 30px; 
+}
+.new-wrap{
+    display: flex;
+    justify-content: space-around;
+}
+.contact{
+    background-color: #a29ab6;
+}
